@@ -5,6 +5,7 @@ Személyes prompt gyűjteményem AI asszisztensekhez, kategóriákba rendezve é
 ## 📚 Tartalomjegyzék
 
 - [Kódolás](#kódolás)
+- [SAP ABAP](#sap-abap)
 - [Írás és tartalom](#írás-és-tartalom)
 - [Analízis](#analízis)
 - [Kreatív](#kreatív)
@@ -22,6 +23,19 @@ Kód dokumentáció automatikus létrehozása különböző nyelvekhez.
 
 ### [Bug Fixing Asszisztens](./coding/bug-fixing-assistant.md)
 Hibakeresésben és javításban segítő prompt.
+
+---
+
+## 💼 SAP ABAP
+
+### [ABAP Kód Review és Optimalizálás](./sap-abap/abap-code-review.md)
+ABAP kód minőség ellenőrzése, performance tuning és S/4HANA kompatibilitás.
+
+### [Fiori/UI5 Fejlesztési Asszisztens](./sap-abap/fiori-ui5-assistant.md)
+SAP Fiori és SAPUI5 alkalmazások fejlesztése, OData integráció és best practices.
+
+### [CDS View és RAP Fejlesztés](./sap-abap/cds-rap-development.md)
+S/4HANA CDS view-k, RAP Business Objects és Virtual Data Model fejlesztés.
 
 ---
 
@@ -126,4 +140,4 @@ MIT License - Szabadon használható és módosítható.
 ---
 
 **Utolsó frissítés:** 2026. január
-**Verzió:** 1.0
+**Verzió:** 1.1
